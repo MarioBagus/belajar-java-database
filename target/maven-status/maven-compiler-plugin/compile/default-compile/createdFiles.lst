@@ -1,0 +1,4 @@
+repository\Repository.class
+com\mycompany\tester\Tester.class
+entity\Murid.class
+com\mycompany\tester\utils\ConnectionUtil.class
