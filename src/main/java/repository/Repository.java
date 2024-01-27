@@ -67,4 +67,7 @@ public class Repository {
             throw new RuntimeException(exception);
         }
     }
+        public void searchById(int id){
+        
+        }
 }
